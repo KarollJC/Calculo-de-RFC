@@ -1,0 +1,14 @@
+C:\Users\CC2_PC24\Proyecto-CSharp\ProyectoCSharp\ProyectoCSharp\obj\Debug\ProyectoCSharp.csprojResolveAssemblyReference.cache
+C:\Users\CC2_PC24\Proyecto-CSharp\ProyectoCSharp\ProyectoCSharp\obj\Debug\ProyectoCSharp.MainForm.resources
+C:\Users\CC2_PC24\Proyecto-CSharp\ProyectoCSharp\ProyectoCSharp\obj\Debug\ProyectoCSharp.csproj.GenerateResource.Cache
+C:\Users\CC2_PC24\Proyecto-CSharp\ProyectoCSharp\ProyectoCSharp\bin\Debug\ProyectoCSharp.exe
+C:\Users\CC2_PC24\Proyecto-CSharp\ProyectoCSharp\ProyectoCSharp\bin\Debug\ProyectoCSharp.pdb
+C:\Users\CC2_PC24\Proyecto-CSharp\ProyectoCSharp\ProyectoCSharp\obj\Debug\ProyectoCSharp.exe
+C:\Users\CC2_PC24\Proyecto-CSharp\ProyectoCSharp\ProyectoCSharp\obj\Debug\ProyectoCSharp.pdb
+C:\Users\karol\Proyecto-CSharp\ProyectoCSharp\ProyectoCSharp\bin\Debug\ProyectoCSharp.exe
+C:\Users\karol\Proyecto-CSharp\ProyectoCSharp\ProyectoCSharp\bin\Debug\ProyectoCSharp.pdb
+C:\Users\karol\Proyecto-CSharp\ProyectoCSharp\ProyectoCSharp\obj\Debug\ProyectoCSharp.csprojResolveAssemblyReference.cache
+C:\Users\karol\Proyecto-CSharp\ProyectoCSharp\ProyectoCSharp\obj\Debug\ProyectoCSharp.MainForm.resources
+C:\Users\karol\Proyecto-CSharp\ProyectoCSharp\ProyectoCSharp\obj\Debug\ProyectoCSharp.csproj.GenerateResource.Cache
+C:\Users\karol\Proyecto-CSharp\ProyectoCSharp\ProyectoCSharp\obj\Debug\ProyectoCSharp.exe
+C:\Users\karol\Proyecto-CSharp\ProyectoCSharp\ProyectoCSharp\obj\Debug\ProyectoCSharp.pdb
